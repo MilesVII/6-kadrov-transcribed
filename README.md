@@ -1,0 +1,1 @@
+[openai whisper](https://github.com/openai/whisper), `medium` model, video source taken from [rutracker, S1-5](https://rutracker.org/forum/viewtopic.php?t=3519283) [rutracker, S6-7](https://rutracker.org/forum/viewtopic.php?t=3598090)
